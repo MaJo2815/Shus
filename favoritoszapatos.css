@@ -1,0 +1,1021 @@
+.favoritoszapatos-container {
+  min-height: 100vh;
+}
+.favoritoszapatos-favoritoszapatos {
+  width: 100%;
+  height: 1032px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.favoritoszapatos-fondo1 {
+  top: 0px;
+  left: -243px;
+  width: 840px;
+  height: 1139px;
+  position: absolute;
+  border-color: transparent;
+}
+.favoritoszapatos-text {
+  top: 54px;
+  left: 44px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.favoritoszapatos-text02 {
+  top: 152px;
+  left: 34px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.favoritoszapatos-text04 {
+  top: 210px;
+  left: 77px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.favoritoszapatos-text06 {
+  top: 210px;
+  left: 188px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.favoritoszapatos-vector1 {
+  top: 242px;
+  left: 73px;
+  width: 84px;
+  height: 0px;
+  position: absolute;
+}
+.favoritoszapatos-moleculapickup {
+  top: 277px;
+  left: 16px;
+  width: 396px;
+  height: 199px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.favoritoszapatos-pickupperfil {
+  top: -5px;
+  left: 0px;
+  width: 396px;
+  height: 213px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(248, 248, 248, 1);
+}
+.favoritoszapatos-text08 {
+  top: 60px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text10 {
+  top: 111px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text12 {
+  top: 83px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text14 {
+  top: 158px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text16 {
+  top: 181px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text18 {
+  top: 22px;
+  left: 198px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-i-m-a-g-e7ed0855435194229a525aad6009a049793661 {
+  top: 18px;
+  left: 15px;
+  width: 165px;
+  height: 165px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 22px;
+}
+.favoritoszapatos-group3 {
+  top: 340px;
+  left: 214px;
+  width: 127px;
+  height: 109px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.favoritoszapatos-text20 {
+  top: 6px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text22 {
+  top: 83px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-atomos {
+  top: 0px;
+  left: 10px;
+  width: 31px;
+  height: 27px;
+  position: absolute;
+}
+.favoritoszapatos-moleculapickup1 {
+  top: 506px;
+  left: 16px;
+  width: 396px;
+  height: 199px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.favoritoszapatos-pickupperfil1 {
+  top: -5px;
+  left: 0px;
+  width: 396px;
+  height: 213px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(248, 248, 248, 1);
+}
+.favoritoszapatos-text24 {
+  top: 60px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text26 {
+  top: 111px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text28 {
+  top: 83px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text30 {
+  top: 158px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text32 {
+  top: 181px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text34 {
+  top: 22px;
+  left: 198px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-i-m-a-g-e7ed0855435194229a525aad6009a0497936611 {
+  top: 18px;
+  left: 15px;
+  width: 165px;
+  height: 165px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 22px;
+}
+.favoritoszapatos-group4 {
+  top: 569px;
+  left: 214px;
+  width: 127px;
+  height: 109px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.favoritoszapatos-text36 {
+  top: 6px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text38 {
+  top: 83px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-atomos1 {
+  top: 0px;
+  left: 10px;
+  width: 31px;
+  height: 27px;
+  position: absolute;
+}
+.favoritoszapatos-moleculapickup2 {
+  top: 735px;
+  left: 16px;
+  width: 396px;
+  height: 199px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.favoritoszapatos-pickupperfil2 {
+  top: -5px;
+  left: 0px;
+  width: 396px;
+  height: 213px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(248, 248, 248, 1);
+}
+.favoritoszapatos-text40 {
+  top: 60px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text42 {
+  top: 111px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text44 {
+  top: 83px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text46 {
+  top: 158px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text48 {
+  top: 181px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text50 {
+  top: 22px;
+  left: 198px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-i-m-a-g-e7ed0855435194229a525aad6009a0497936612 {
+  top: 18px;
+  left: 15px;
+  width: 165px;
+  height: 165px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 22px;
+}
+.favoritoszapatos-group5 {
+  top: 798px;
+  left: 214px;
+  width: 127px;
+  height: 109px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.favoritoszapatos-text52 {
+  top: 6px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text54 {
+  top: 83px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-atomos2 {
+  top: 0px;
+  left: 10px;
+  width: 31px;
+  height: 27px;
+  position: absolute;
+}
+.favoritoszapatos-atomobuscador {
+  top: 74px;
+  left: 313px;
+  width: 20px;
+  height: 21px;
+  position: absolute;
+}
+.favoritoszapatos-vector {
+  top: 74px;
+  left: 378px;
+  width: 21px;
+  height: 20px;
+  position: absolute;
+}
+.favoritoszapatos-taskbar {
+  top: 817px;
+  left: -1px;
+  width: 428px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.favoritoszapatos-rectangle20 {
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 95px;
+  position: absolute;
+  border-color: transparent;
+}
+.favoritoszapatos-text56 {
+  top: 68px;
+  left: 363px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.favoritoszapatos-text58 {
+  top: 68px;
+  left: 237px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.favoritoszapatos-materialsymbolshome {
+  top: 24px;
+  left: 355px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+}
+.favoritoszapatos-vector1 {
+  top: 29px;
+  left: 143px;
+  width: 28px;
+  height: 35px;
+  position: absolute;
+}
+.favoritoszapatos-text60 {
+  top: 68px;
+  left: 22px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.favoritoszapatos-text62 {
+  top: 71px;
+  left: 133px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.favoritoszapatos-vector2 {
+  top: 31px;
+  left: 31px;
+  width: 32px;
+  height: 30px;
+  position: absolute;
+}
+.favoritoszapatos-vector3 {
+  top: 31px;
+  left: 252px;
+  width: 24px;
+  height: 30px;
+  position: absolute;
+}
+.favoritoszapatos-moleculapickup3 {
+  top: 969px;
+  left: 16px;
+  width: 396px;
+  height: 199px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.favoritoszapatos-pickupperfil3 {
+  top: -5px;
+  left: 0px;
+  width: 396px;
+  height: 213px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(248, 248, 248, 1);
+}
+.favoritoszapatos-text64 {
+  top: 60px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text66 {
+  top: 111px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text68 {
+  top: 83px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text70 {
+  top: 158px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text72 {
+  top: 181px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text74 {
+  top: 22px;
+  left: 198px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-i-m-a-g-e7ed0855435194229a525aad6009a0497936613 {
+  top: 18px;
+  left: 15px;
+  width: 165px;
+  height: 165px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 22px;
+}
+.favoritoszapatos-group6 {
+  top: 1032px;
+  left: 214px;
+  width: 127px;
+  height: 109px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.favoritoszapatos-text76 {
+  top: 6px;
+  left: 68px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.favoritoszapatos-text78 {
+  top: 83px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

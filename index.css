@@ -1,0 +1,550 @@
+.index-container {
+  min-height: 100vh;
+}
+.index-index {
+  width: 100%;
+  height: 1042px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(248, 248, 248, 1);
+}
+.index-text {
+  top: 134px;
+  left: 16px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.index-text01 {
+  font-weight: 400;
+}
+.index-text03 {
+  top: 377px;
+  left: 24px;
+  color: rgba(17, 9, 5, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.index-text05 {
+  top: 54px;
+  left: 44px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.index-text07 {
+  top: 650px;
+  left: 338px;
+  color: rgba(0, 86, 253, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.index-rectangle11 {
+  top: 193px;
+  left: 15px;
+  width: 396px;
+  height: 138px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.index-rectangle9 {
+  top: 434px;
+  left: 503px;
+  width: 146px;
+  height: 172px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.index-rectangle10 {
+  top: 434px;
+  left: 664px;
+  width: 146px;
+  height: 172px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.index-moleculaubicacionhome {
+  top: 691px;
+  left: 15px;
+  width: 396px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.index-rectangle15 {
+  top: 0px;
+  left: 0px;
+  width: 396px;
+  height: 65px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 14px;
+}
+.index-vector {
+  top: 18px;
+  left: 18px;
+  width: 24px;
+  height: 30px;
+  position: absolute;
+}
+.index-text09 {
+  top: 20px;
+  left: 56px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.index-frame1 {
+  top: 397px;
+  left: -35px;
+  width: 463px;
+  height: 242px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.index-carousel1 {
+  top: 37px;
+  left: 53px;
+  width: 786px;
+  height: 168px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.index-rectangle8 {
+  top: 2px;
+  left: 0px;
+  width: 146px;
+  height: 166px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.index-rectangle151 {
+  top: 0px;
+  left: 480px;
+  width: 146px;
+  height: 168px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.index-rectangle16 {
+  top: 2px;
+  left: 160px;
+  width: 146px;
+  height: 166px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.index-rectangle91 {
+  top: 2px;
+  left: 320px;
+  width: 146px;
+  height: 166px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.index-rectangle101 {
+  top: 0px;
+  left: 640px;
+  width: 146px;
+  height: 168px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.index-text11 {
+  top: 140px;
+  left: 47px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+}
+.index-text13 {
+  top: 140px;
+  left: 214px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+}
+.index-text15 {
+  top: 140px;
+  left: 338px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+}
+.index-text17 {
+  top: 140px;
+  left: 509px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+}
+.index-text19 {
+  top: 140px;
+  left: 687px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+}
+.index-vector5 {
+  top: 414px;
+  left: 24px;
+  width: 44px;
+  height: 0px;
+  position: absolute;
+}
+.index-text21 {
+  top: 639px;
+  left: 24px;
+  color: rgba(17, 9, 5, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.index-vector6 {
+  top: 676px;
+  left: 24px;
+  width: 44px;
+  height: 0px;
+  position: absolute;
+}
+.index-vector1 {
+  top: 74px;
+  left: 313px;
+  width: 20px;
+  height: 21px;
+  position: absolute;
+}
+.index-vector2 {
+  top: 74px;
+  left: 378px;
+  width: 21px;
+  height: 20px;
+  position: absolute;
+}
+.index-moleculaubicacionhome1 {
+  top: 777px;
+  left: 15px;
+  width: 396px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.index-rectangle152 {
+  top: 0px;
+  left: 0px;
+  width: 396px;
+  height: 65px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 14px;
+}
+.index-vector3 {
+  top: 18px;
+  left: 18px;
+  width: 24px;
+  height: 30px;
+  position: absolute;
+}
+.index-text23 {
+  top: 20px;
+  left: 56px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.index-moleculaubicacionhome2 {
+  top: 862px;
+  left: 15px;
+  width: 396px;
+  height: 66px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.index-rectangle153 {
+  top: 0px;
+  left: 0px;
+  width: 396px;
+  height: 66px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 14px;
+}
+.index-vector4 {
+  top: 18.27692222595215px;
+  left: 18px;
+  width: 24px;
+  height: 30px;
+  position: absolute;
+}
+.index-text25 {
+  top: 20.30769157409668px;
+  left: 56px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.index-moleculaubicacionhome3 {
+  top: 943px;
+  left: 15px;
+  width: 396px;
+  height: 65px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.index-rectangle154 {
+  top: 0px;
+  left: 0px;
+  width: 396px;
+  height: 65px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 14px;
+}
+.index-vector5 {
+  top: 18px;
+  left: 18px;
+  width: 24px;
+  height: 30px;
+  position: absolute;
+}
+.index-text27 {
+  top: 20px;
+  left: 56px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.index-taskbar {
+  top: 817px;
+  left: -1px;
+  width: 428px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.index-rectangle20 {
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 95px;
+  position: absolute;
+  border-color: transparent;
+}
+.index-text29 {
+  top: 68px;
+  left: 363px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.index-text31 {
+  top: 68px;
+  left: 237px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.index-materialsymbolshome {
+  top: 24px;
+  left: 355px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+}
+.index-vector6 {
+  top: 29px;
+  left: 143px;
+  width: 28px;
+  height: 35px;
+  position: absolute;
+}
+.index-text33 {
+  top: 68px;
+  left: 22px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.index-text35 {
+  top: 71px;
+  left: 133px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.index-vector7 {
+  top: 31px;
+  left: 31px;
+  width: 32px;
+  height: 30px;
+  position: absolute;
+}
+.index-vector8 {
+  top: 31px;
+  left: 252px;
+  width: 24px;
+  height: 30px;
+  position: absolute;
+}

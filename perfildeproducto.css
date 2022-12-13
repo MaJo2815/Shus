@@ -1,0 +1,599 @@
+.perfildeproducto-container {
+  min-height: 100vh;
+}
+.perfildeproducto-perfildeproducto {
+  width: 100%;
+  height: 1207px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.perfildeproducto-fondo1 {
+  top: 0px;
+  left: -243px;
+  width: 1061px;
+  height: 1439px;
+  position: absolute;
+  border-color: transparent;
+}
+.perfildeproducto-text {
+  top: 124px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.perfildeproducto-moleculaestatusproducto {
+  top: 812px;
+  left: 21px;
+  width: 382px;
+  height: 343px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.perfildeproducto-rectangle21 {
+  top: 0px;
+  left: 0px;
+  width: 382px;
+  height: 343px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.perfildeproducto-text02 {
+  top: 34px;
+  left: 57px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.perfildeproducto-line2 {
+  top: 95px;
+  left: 222px;
+  width: 208px;
+  height: 0px;
+  position: absolute;
+}
+.perfildeproducto-text04 {
+  top: 111px;
+  left: 50px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-text06 {
+  top: 161px;
+  left: 50px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-text08 {
+  top: 212px;
+  left: 50px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-text10 {
+  top: 257px;
+  left: 50px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Medium;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-atomosinputcorreocontrasea {
+  top: 110px;
+  left: 272px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.perfildeproducto-atomosinputcorreocontrasea1 {
+  top: 160px;
+  left: 272px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.perfildeproducto-atomosinputcorreocontrasea2 {
+  top: 211px;
+  left: 272px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.perfildeproducto-atomosinputcorreocontrasea3 {
+  top: 256px;
+  left: 272px;
+  width: 28px;
+  height: 28px;
+  position: absolute;
+}
+.perfildeproducto-text12 {
+  top: 169px;
+  left: 16px;
+  color: rgba(81, 81, 81, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.perfildeproducto-text19 {
+  top: 54px;
+  left: 44px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-text21 {
+  top: 363px;
+  left: 189px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-text23 {
+  top: 308px;
+  left: 142px;
+  color: rgba(49, 49, 49, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-text25 {
+  top: 308px;
+  left: 244px;
+  color: rgba(49, 49, 49, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-text26 {
+  top: 308px;
+  left: 351px;
+  color: rgba(49, 49, 49, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-vector1 {
+  top: 331.5px;
+  left: 16px;
+  width: 84px;
+  height: 0px;
+  position: absolute;
+}
+.perfildeproducto-imagenes {
+  top: 403px;
+  left: 390px;
+  width: 284px;
+  height: 284px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.perfildeproducto-adidasoriginalssuperstartrainers1 {
+  top: 0px;
+  left: 0px;
+  width: 284px;
+  height: 284px;
+  position: absolute;
+  border-color: transparent;
+}
+.perfildeproducto-imagenes1 {
+  top: 403px;
+  left: 60px;
+  width: 308px;
+  height: 284px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.perfildeproducto-ff2e419f1eda4ebab23faad6009a3a9e93661 {
+  top: 0px;
+  left: 0px;
+  width: 308px;
+  height: 284px;
+  position: absolute;
+  border-color: transparent;
+}
+.perfildeproducto-text28 {
+  top: 253px;
+  left: 16px;
+  color: rgba(0, 180, 72, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.perfildeproducto-rectangle25 {
+  top: 253px;
+  left: 262px;
+  width: 19px;
+  height: 17px;
+  position: absolute;
+  border-color: transparent;
+}
+.perfildeproducto-rectangle26 {
+  top: 253px;
+  left: 302px;
+  width: 19px;
+  height: 17px;
+  position: absolute;
+  border-color: transparent;
+}
+.perfildeproducto-rectangle27 {
+  top: 253px;
+  left: 342px;
+  width: 19px;
+  height: 17px;
+  position: absolute;
+  border-color: transparent;
+}
+.perfildeproducto-rectangle28 {
+  top: 253px;
+  left: 375px;
+  width: 19px;
+  height: 17px;
+  position: absolute;
+  border-color: transparent;
+}
+.perfildeproducto-atomobuscador {
+  top: 74px;
+  left: 313px;
+  width: 20px;
+  height: 21px;
+  position: absolute;
+}
+.perfildeproducto-vector {
+  top: 94.99745178222656px;
+  left: 378px;
+  width: 21px;
+  height: 26px;
+  position: absolute;
+}
+.perfildeproducto-guardarenelcarrito {
+  top: 741px;
+  left: 229px;
+  width: 188px;
+  height: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.perfildeproducto-rectangle23 {
+  top: 0px;
+  left: 0px;
+  width: 188px;
+  height: 46px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.perfildeproducto-text30 {
+  top: 14px;
+  left: 25px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.perfildeproducto-favoritosboton {
+  top: 741px;
+  left: 12px;
+  width: 188px;
+  height: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.perfildeproducto-rectangle24 {
+  top: 0px;
+  left: 0px;
+  width: 188px;
+  height: 46px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.perfildeproducto-text32 {
+  top: 14px;
+  left: 62px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-engpladidas-originals-superstar20j-f-u7712shoes2848021 {
+  top: 404px;
+  left: -268px;
+  width: 308px;
+  height: 284px;
+  position: absolute;
+  border-color: transparent;
+}
+.perfildeproducto-taskbar {
+  top: 817px;
+  left: -1px;
+  width: 428px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.perfildeproducto-rectangle20 {
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 95px;
+  position: absolute;
+  border-color: transparent;
+}
+.perfildeproducto-text34 {
+  top: 68px;
+  left: 363px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-text36 {
+  top: 68px;
+  left: 237px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-materialsymbolshome {
+  top: 24px;
+  left: 355px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+}
+.perfildeproducto-vector1 {
+  top: 29px;
+  left: 143px;
+  width: 28px;
+  height: 35px;
+  position: absolute;
+}
+.perfildeproducto-text38 {
+  top: 68px;
+  left: 22px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-text40 {
+  top: 71px;
+  left: 133px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.perfildeproducto-vector2 {
+  top: 31px;
+  left: 31px;
+  width: 32px;
+  height: 30px;
+  position: absolute;
+}
+.perfildeproducto-vector3 {
+  top: 31px;
+  left: 252px;
+  width: 24px;
+  height: 30px;
+  position: absolute;
+}

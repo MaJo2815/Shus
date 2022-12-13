@@ -1,0 +1,570 @@
+.pickup-container {
+  min-height: 100vh;
+}
+.pickup-pickup {
+  width: 100%;
+  height: 912px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.pickup-fondo1 {
+  top: 0px;
+  left: -243px;
+  width: 840px;
+  height: 1139px;
+  position: absolute;
+  border-color: transparent;
+}
+.pickup-text {
+  top: 54px;
+  left: 44px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.pickup-text02 {
+  top: 124px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.pickup-moleculaslectcaritto {
+  top: 186px;
+  left: 64px;
+  width: 283px;
+  height: 24.012195587158203px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.pickup-text04 {
+  left: 21px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.pickup-text06 {
+  left: 122px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.pickup-text08 {
+  left: 231px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.pickup-vector1 {
+  top: 23.5px;
+  left: 215px;
+  width: 84px;
+  height: 0px;
+  position: absolute;
+}
+.pickup-atomobuscador {
+  top: 74px;
+  left: 313px;
+  width: 20px;
+  height: 21px;
+  position: absolute;
+}
+.pickup-vector {
+  top: 72.88121032714844px;
+  left: 378px;
+  width: 21px;
+  height: 20px;
+  position: absolute;
+}
+.pickup-text10 {
+  top: 261px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.pickup-moleculapickup {
+  top: 330px;
+  left: 16px;
+  width: 396px;
+  height: 199px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.pickup-pickupperfil {
+  top: -5px;
+  left: 0px;
+  width: 396px;
+  height: 213px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(248, 248, 248, 1);
+}
+.pickup-text15 {
+  top: 60px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text17 {
+  top: 111px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text19 {
+  top: 83px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text21 {
+  top: 134px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text23 {
+  top: 158px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text25 {
+  top: 181px;
+  left: 208px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text27 {
+  top: 22px;
+  left: 198px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text29 {
+  top: 54px;
+  left: 198px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text31 {
+  top: 54px;
+  left: 307px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text33 {
+  top: 85px;
+  left: 197px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text35 {
+  top: 85px;
+  left: 307px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text37 {
+  top: 144px;
+  left: 197px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text39 {
+  top: 173px;
+  left: 198px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text41 {
+  top: 141px;
+  left: 307px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text43 {
+  top: 170px;
+  left: 307px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text45 {
+  top: 116px;
+  left: 198px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-text47 {
+  top: 115px;
+  left: 307px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.pickup-i-m-a-g-e7ed0855435194229a525aad6009a049793661 {
+  top: 18px;
+  left: 15px;
+  width: 165px;
+  height: 165px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 22px;
+}
+.pickup-taskbar {
+  top: 817px;
+  left: -1px;
+  width: 428px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.pickup-rectangle20 {
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 95px;
+  position: absolute;
+  border-color: transparent;
+}
+.pickup-text49 {
+  top: 68px;
+  left: 363px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.pickup-text51 {
+  top: 68px;
+  left: 237px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.pickup-materialsymbolshome {
+  top: 24px;
+  left: 355px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+}
+.pickup-vector1 {
+  top: 29px;
+  left: 143px;
+  width: 28px;
+  height: 35px;
+  position: absolute;
+}
+.pickup-text53 {
+  top: 68px;
+  left: 22px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.pickup-text55 {
+  top: 71px;
+  left: 133px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.pickup-vector2 {
+  top: 31px;
+  left: 31px;
+  width: 32px;
+  height: 30px;
+  position: absolute;
+}
+.pickup-vector3 {
+  top: 31px;
+  left: 252px;
+  width: 24px;
+  height: 30px;
+  position: absolute;
+}

@@ -1,0 +1,451 @@
+.carrito-container {
+  min-height: 100vh;
+}
+.carrito-carrito {
+  width: 100%;
+  height: 912px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.carrito-fondo1 {
+  top: 0px;
+  left: -243px;
+  width: 840px;
+  height: 1139px;
+  position: absolute;
+  border-color: transparent;
+}
+.carrito-text {
+  top: 54px;
+  left: 44px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.carrito-text02 {
+  top: 124px;
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.carrito-text04 {
+  top: 261px;
+  left: 22px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.carrito-moleculaslectcaritto {
+  top: 186px;
+  left: 64px;
+  width: 283px;
+  height: 24.012195587158203px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.carrito-text09 {
+  left: 21px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.carrito-text11 {
+  left: 122px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.carrito-text13 {
+  left: 231px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.carrito-vector1 {
+  top: 23.5px;
+  left: 0px;
+  width: 84px;
+  height: 0px;
+  position: absolute;
+}
+.carrito-atomobuscador {
+  top: 74px;
+  left: 313px;
+  width: 20px;
+  height: 21px;
+  position: absolute;
+}
+.carrito-vector {
+  top: 72.88121032714844px;
+  left: 378px;
+  width: 21px;
+  height: 20px;
+  position: absolute;
+}
+.carrito-rectangle26 {
+  top: 346px;
+  left: 16px;
+  width: 396px;
+  height: 171px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 20px;
+}
+.carrito-imagenes {
+  top: 377px;
+  left: 32px;
+  width: 119.2957763671875px;
+  height: 110px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.carrito-imagenes1 {
+  top: 0px;
+  left: 0px;
+  width: 119.2957763671875px;
+  height: 110px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.carrito-ff2e419f1eda4ebab23faad6009a3a9e93661 {
+  top: 0px;
+  left: 0px;
+  width: 119px;
+  height: 110px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 22px;
+}
+.carrito-text15 {
+  top: 370px;
+  left: 166px;
+  color: var(--dl-color-principal-colornegro);
+  width: 178px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.carrito-text17 {
+  top: 377px;
+  left: 322px;
+  color: var(--dl-color-principal-naranja);
+  width: 74px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.carrito-text19 {
+  top: 426px;
+  left: 166px;
+  color: rgba(0, 0, 0, 1);
+  width: 116px;
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.carrito-moleculaselectcantidad {
+  top: 467px;
+  left: 328px;
+  width: 58px;
+  height: 27.017822265625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.carrito-text26 {
+  left: 21.999982833862305px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.carrito-text27 {
+  top: 19px;
+  left: 39px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.carrito-text28 {
+  top: 27.017822265625px;
+  left: 8.999981880187988px;
+  color: var(--dl-color-principal-colornegro);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.carrito-guardarenelcarrito {
+  top: 741px;
+  left: 229px;
+  width: 188px;
+  height: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.carrito-rectangle23 {
+  top: 0px;
+  left: 0px;
+  width: 188px;
+  height: 46px;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 10px;
+}
+.carrito-text29 {
+  top: 14px;
+  left: 25px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  align-self: auto;
+  text-align: left;
+  line-height: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+.carrito-taskbar {
+  top: 817px;
+  left: -1px;
+  width: 428px;
+  height: 95px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.carrito-rectangle20 {
+  top: 0px;
+  left: 0px;
+  width: 428px;
+  height: 95px;
+  position: absolute;
+  border-color: transparent;
+}
+.carrito-text31 {
+  top: 68px;
+  left: 363px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.carrito-text33 {
+  top: 68px;
+  left: 237px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.carrito-materialsymbolshome {
+  top: 24px;
+  left: 355px;
+  width: 43px;
+  height: 43px;
+  position: absolute;
+}
+.carrito-vector1 {
+  top: 29px;
+  left: 143px;
+  width: 28px;
+  height: 35px;
+  position: absolute;
+}
+.carrito-text35 {
+  top: 68px;
+  left: 22px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.carrito-text37 {
+  top: 71px;
+  left: 133px;
+  color: var(--dl-color-principal-beigeclaro);
+  height: auto;
+  position: absolute;
+  font-size: 10px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Space Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.carrito-vector2 {
+  top: 31px;
+  left: 31px;
+  width: 32px;
+  height: 30px;
+  position: absolute;
+}
+.carrito-vector3 {
+  top: 31px;
+  left: 252px;
+  width: 24px;
+  height: 30px;
+  position: absolute;
+}
